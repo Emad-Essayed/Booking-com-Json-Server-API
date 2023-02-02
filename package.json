@@ -1,0 +1,14 @@
+{
+  "name": "booking.com",
+  "version": "1.0.0",
+  "description": "A fake API for Booking.com-Clone",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Emad Bedeer",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.1"
+  }
+}
